@@ -1,4 +1,4 @@
-# 
+# Melhor AI Emotion Detection from Text predefinições. Com aprendizado por transferência e processamento de linguagem natural — otimizado para máximo desempenho.
 
 
 
